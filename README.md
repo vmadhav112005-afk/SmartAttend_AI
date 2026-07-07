@@ -30,27 +30,6 @@ Designed as an enterprise-level application, it features a modern GUI dashboard,
 
 ---
 
-# 📸 Screenshots
-
-> Replace these images with your screenshots.
-
-| Login | Dashboard |
-|-------|-----------|
-| ![](assets/login.png) | ![](assets/dashboard.png) |
-
-| Face Recognition | Attendance Report |
-|-----------------|------------------|
-| ![](assets/recognition.png) | ![](assets/report.png) |
-
----
-
-# 🎥 Demo
-
-```
-Coming Soon
-```
-
----
 
 # ✨ Features
 
