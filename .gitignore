@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+attendance.db
+logs/
+reports/
+unknown_faces/

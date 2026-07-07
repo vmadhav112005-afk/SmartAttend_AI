@@ -1,0 +1,46 @@
+2026-06-22 13:35:03,268 - INFO - Application starting...
+2026-06-22 13:36:57,230 - INFO - Application closed normally.
+2026-06-22 13:40:35,470 - INFO - Application starting...
+2026-06-22 13:42:56,740 - INFO - Application closed normally.
+2026-06-23 11:44:42,383 - INFO - Application session started.
+2026-06-23 11:45:21,967 - INFO - Application session started.
+2026-06-23 11:51:19,106 - INFO - Application session started.
+2026-06-23 11:52:40,441 - INFO - Model successfully saved to C:\Users\Sugam Madhav\OneDrive\Desktop\New folder (3)\SmartAttend_AI\models\encodings.pkl
+2026-06-23 11:52:43,917 - INFO - Could not import comtypes.gen, trying to create it.
+2026-06-23 11:52:43,917 - INFO - Created comtypes.gen directory: 'C:\Users\Sugam Madhav\OneDrive\Desktop\New folder (3)\SmartAttend_AI\venv\Lib\site-packages\comtypes\gen'
+2026-06-23 11:52:43,925 - INFO - Writing __init__.py file: 'C:\Users\Sugam Madhav\OneDrive\Desktop\New folder (3)\SmartAttend_AI\venv\Lib\site-packages\comtypes\gen\__init__.py'
+2026-06-23 11:52:43,935 - INFO - Using writeable comtypes cache directory: 'C:\Users\Sugam Madhav\OneDrive\Desktop\New folder (3)\SmartAttend_AI\venv\Lib\site-packages\comtypes\gen'
+2026-06-23 11:52:43,948 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2026-06-23 11:52:43,949 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-06-23 11:52:43,999 - INFO - # Generating comtypes.gen.SpeechLib
+2026-06-23 11:52:43,999 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2026-06-23 11:52:44,013 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2026-06-23 11:52:44,017 - INFO - # Generating comtypes.gen.stdole
+2026-06-23 11:54:20,852 - INFO - Model successfully saved to C:\Users\Sugam Madhav\OneDrive\Desktop\New folder (3)\SmartAttend_AI\models\encodings.pkl
+2026-06-23 12:02:44,856 - INFO - Application session started.
+2026-06-23 12:02:50,301 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Sugam Madhav\\OneDrive\\Desktop\\New folder (3)\\SmartAttend_AI\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-23 12:02:50,303 - INFO - Using writeable comtypes cache directory: 'C:\Users\Sugam Madhav\OneDrive\Desktop\New folder (3)\SmartAttend_AI\venv\Lib\site-packages\comtypes\gen'
+2026-06-23 12:04:31,551 - INFO - Model successfully saved to C:\Users\Sugam Madhav\OneDrive\Desktop\New folder (3)\SmartAttend_AI\models\encodings.pkl
+2026-06-23 12:09:10,040 - INFO - Application session started.
+2026-06-23 12:09:39,934 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Sugam Madhav\\OneDrive\\Desktop\\New folder (3)\\SmartAttend_AI\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-23 12:09:39,934 - INFO - Using writeable comtypes cache directory: 'C:\Users\Sugam Madhav\OneDrive\Desktop\New folder (3)\SmartAttend_AI\venv\Lib\site-packages\comtypes\gen'
+2026-06-23 12:11:05,609 - ERROR - Failed to email report: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2c743bfe8aasm93174525ad.68 - gsmtp')
+2026-06-23 12:18:25,772 - INFO - Application session started.
+2026-06-23 12:20:56,958 - INFO - Application session started.
+2026-06-23 12:21:05,230 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-23 12:21:05,230 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-23 12:22:06,199 - INFO - Application session started.
+2026-06-23 12:22:08,428 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-23 12:22:08,428 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-23 12:22:40,634 - ERROR - Failed to email report: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-84564e9e0d5sm9468115b3a.40 - gsmtp')
+2026-06-23 12:27:22,537 - INFO - Application session started.
+2026-06-23 12:27:24,565 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-23 12:27:24,566 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-23 13:58:30,752 - INFO - Application session started.
+2026-06-23 13:58:34,136 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-23 13:58:34,136 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-23 14:00:03,483 - INFO - Application session started.
+2026-07-07 17:01:21,299 - INFO - Application session started.
+2026-07-07 17:01:40,792 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-07 17:01:40,792 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-07 17:04:46,482 - INFO - Application session started.
